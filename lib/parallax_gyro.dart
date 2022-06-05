@@ -5,6 +5,11 @@ import 'dart:ui';
 import 'package:flutter/material.dart';
 import 'package:sensors_plus/sensors_plus.dart';
 
+///Create a Parallax effect by the values of gyroscope values
+///
+///[elevation] changes the background size to appears be more far away
+///
+///[intensity] multiplies gyro sensors value
 class ParallaxGyro extends StatefulWidget {
   const ParallaxGyro({
     Key? key,

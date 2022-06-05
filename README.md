@@ -12,7 +12,7 @@ and the Flutter guide for
 -->
 
 Create a Parallax effect with gyro sensors
-
+Project based on [Demo by ersanKolay](https://github.com/ersanKolay/sensor_image_demo)
 ## Features
 
 TODO: List what your package can do. Maybe include images, gifs, or videos.
